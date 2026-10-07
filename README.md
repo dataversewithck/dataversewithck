@@ -38,9 +38,9 @@ All projects use public datasets and are built to show my approach end to end: b
 
 | Project | What it answers | Tools |
 |---|---|---|
+| [**SQL Business Analysis**](https://github.com/dataversewithck/sql-business-analysis) | E-commerce revenue, customer segmentation, cohort retention, top customers & products | SQL Server, T-SQL, CTEs, window functions |
 | [**Power BI E-commerce Analytics**](https://github.com/dataversewithck/powerbi-ecommerce-analytics) | Which products, regions, and customers drive revenue? | Power BI, Python |
 | [**Tableau Juvenile Custody Analytics**](https://github.com/dataversewithck/tableau-juvenile-custody-analytics) | How do custody trends differ by demographics and facility? | Tableau |
-| .[**SQL Business Analysis**](https://github.com/dataversewithck/sql-business-analysis) | Cohort retention, revenue by segment, top performers | SQL, window functions, CTEs |
 | **Customer Segmentation: RFM + K-Means** *(coming soon)* | Which customer groups deserve which marketing action? | Python, scikit-learn |
 | **A/B Test Analysis** *(coming soon)* | Did the variant truly beat the control? | Python, SciPy |
 | **Sales Forecasting** *(coming soon)* | What will demand look like next quarter? | Python, Prophet / SARIMA |
@@ -66,4 +66,4 @@ All projects use public datasets and are built to show my approach end to end: b
 
 ## 🤝 Let's Connect
 
-Open to data analyst and BI opportunities. Reach me by email at venegallac@gmail.com or on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE).
+Open to data analyst and BI opportunities. Reach me by email at venegallac@gmail.com or on [LinkedIn](https://www.linkedin.com/in/chandrakala-venegalla-47aa32228/).
