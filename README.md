@@ -40,7 +40,7 @@ All projects use public datasets and are built to show my approach end to end: b
 |---|---|---|
 | [**Power BI E-commerce Analytics**](https://github.com/dataversewithck/powerbi-ecommerce-analytics) | Which products, regions, and customers drive revenue? | Power BI, Python |
 | [**Tableau Juvenile Custody Analytics**](https://github.com/dataversewithck/tableau-juvenile-custody-analytics) | How do custody trends differ by demographics and facility? | Tableau |
-| **SQL Business Analysis** *(coming soon)* | Cohort retention, revenue by segment, top performers | SQL, window functions, CTEs |
+| .[**SQL Business Analysis**](https://github.com/dataversewithck/sql-business-analysis). | Cohort retention, revenue by segment, top performers | SQL, window functions, CTEs |
 | **Customer Segmentation: RFM + K-Means** *(coming soon)* | Which customer groups deserve which marketing action? | Python, scikit-learn |
 | **A/B Test Analysis** *(coming soon)* | Did the variant truly beat the control? | Python, SciPy |
 | **Sales Forecasting** *(coming soon)* | What will demand look like next quarter? | Python, Prophet / SARIMA |
